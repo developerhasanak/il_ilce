@@ -1,4 +1,4 @@
- {
+ [{
     "il": "Adana",
     "plaka": 1,
     "ilceleri": [
@@ -1459,3 +1459,4 @@
       "Kaynaşlı"
     ]
   }
+  ]
