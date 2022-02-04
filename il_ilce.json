@@ -1,8 +1,8 @@
  [
   {
-   "il":"",
-   "plaka":0,
-   "ilceleri":[]
+   "il": "İl seçiniz",
+   "plaka": 0,
+   "ilceleri": ["ilçe seçiniz"]
   },
   {
     "il": "Adana",
